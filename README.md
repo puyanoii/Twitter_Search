@@ -16,9 +16,9 @@ Use Jupyter notebook file ```Text cleaning and frequency.ipynb``` for cleaning d
 
 This is a short jupyter notebook/lab script for data cleaning tasks for Twitter data. Note that this script will require re-downloaded csv file accessed from Twitter's API. Input file needs to have tweet text for text analysis and created date of tweets for visualisation of tweets across time.
 
-**Inporting file**: test.csv
+**Inporting file**: ```test.csv```
 
-**Exporting file**: topwords_20.csv
+**Exporting file**: ```topwords_20.csv```
 
 * Author: "Pu Yan"
 * Contributor: "Huiyi Lv (codes on td-idf)"
