@@ -2,6 +2,12 @@
 
 This is a repo for data crawling from Twitter's Search API (Academic access) and data analysis using text data from Twitter.
 
+## Querring from Twitter's Search API using Academic access
+
+Code will be uploaded soon
+
+
+
 ## Data cleaning and text analysis
 
 Use Jupyter notebook file ```Text cleaning and frequency.ipynb``` for cleaning data collected from Twitter and runing text cleaning and basic text analysis tasks
@@ -14,7 +20,10 @@ This is a short jupyter notebook/lab script for data cleaning tasks for Twitter 
 
 **Exporting file**: topwords_20.csv
 
-* Author: "Pu Yan (text cleaning and data analysis) and Huiyi Lv (test data and td-idf)"
+* Author: "Pu Yan"
+* Contributor: "Huiyi Lv (test data and td-idf)"
 * Version: "1.0"
 * Maintainer: "Pu Yan"
 * Email: "thuyanpu[AT]gmail.com"
+
+
