@@ -21,7 +21,7 @@ This is a short jupyter notebook/lab script for data cleaning tasks for Twitter 
 **Exporting file**: ```topwords_20.csv```
 
 * Author: "Pu Yan"
-* Contributor: "Huiyi Lv (codes on td-idf)"
+* Contributor: "Huiyi Lv (codes on tf-idf)"
 * Version: "1.0"
 * Maintainer: "Pu Yan"
 * Email: "thuyanpu[AT]gmail.com"
