@@ -4,8 +4,7 @@ This is a repo for data crawling from Twitter's Search API (Academic access) and
 
 ## Querring from Twitter's Search API using Academic access
 
-Code will be uploaded soon
-
+Use Jupyter notebook file ```Twitter Academic API.ipynb``` for searching tweets that contain a list of keywords/hashtags. Note that all tweets collected in the current sample contain geo locations. Replace your own API token in the code before running the script.
 
 
 ## Data cleaning and text analysis
